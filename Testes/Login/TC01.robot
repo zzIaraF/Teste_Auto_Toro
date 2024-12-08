@@ -36,7 +36,7 @@ TC02.6 - Teste de Cadastro com credenciais válidas (Faza Login)
         Então fecho o navegador 
     END 
 
-TC03.2 - Teste de Cadastro com credenciais válidas (Faza Login)
+TC03.2 - Teste Campo data de nascimento (menor de Idade)
     FOR  ${Browser}  IN  @{Browsers}
         Log To Console  \nExecutando teste no navegador: ${Browser}
         Dado que acesse o Site no navegador:  ${Browser}
