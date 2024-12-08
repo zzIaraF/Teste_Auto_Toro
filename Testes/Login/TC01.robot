@@ -27,7 +27,7 @@ TC01.7 - Teste de Cadastro com credenciais válidas (Abra sua Conta)
     END 
 
 
-TC02.6 - Teste de Cadastro com credenciais válidas (Faza Login)
+TC02.6 - Teste de Cadastro com credenciais válidas (Faca Login)
     FOR  ${Browser}  IN  @{Browsers}
         Log To Console  \nExecutando teste no navegador: ${Browser}
         Dado que acesse o Site no navegador:  ${Browser}
