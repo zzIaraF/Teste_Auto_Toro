@@ -11,6 +11,7 @@
 ...    Input_Senha=//*[@id="password"]     #Input com a Senhe do user
 ...    Input_RepitaSenha=//*[@id="rePassword"]    #Repete a senha do user
 ...    Button_Continua=//*[@id="step-1"]/div/div[2]/div[2]/div[8]/div/button     #Botão continua da 1ºpagina
+...    Button_ContinuaPagLogin=//*[@id="step-1"]/div/div/div[2]/div/div[2]/div[6]/div/button
     
 
 
@@ -54,8 +55,8 @@
 
 
 &{DadosPatrimonio}
-...  Selection_Profissão=//*[@id="jobTypeID"]    #Seleção de Profissão
-...  Opc_Profisao=//*[contains(text(), " Administrador ")]    #Seleciona a Opc "Administrador"
+...  Selection_Profissao=//*[@id="jobTypeID"]    #Seleção de Profissao
+...  Opc_Profissao=//*[contains(text(), " Administrador ")]    #Seleciona a Opc "Administrador"
 ...  Radio_Prof=//*[@id="isEmployed_0"]   #Radio que define se esta trabalhando ou não
 ...  Opc_Prof=//*[@id="isEmployed_1"]     #Seleciona a Opc "Não"
 ...  Selection_Renda=(//*[@id="extraIncome"])[2]      #Seleção de Renda

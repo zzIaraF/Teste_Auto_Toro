@@ -27,7 +27,7 @@ ${DataVencFake}             22/11/2020
 ${CodSeguFake}              12345678910
 ${CepFake}                  47.600-000    
 ${NunFake}                  57
-${EndFake}                  Ruaakzjjakkjakjajk 
+${EndFake}                  Rua para teste
 ${CompFake}                 Casa
 ${BairroFake}               Centro
 ${ValorMoveisFake}          3000
