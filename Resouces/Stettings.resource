@@ -4,6 +4,7 @@ Library         FakerLibrary    locale=pt_BR    #importa dados aleatorios
 Library         CPFGenerator.py                 #Importa CPF aleatorios
 Library         TelefoneGerator.py              #Importa Telefone aleatorio
 
+
  
 *** Variables ***
 # Dados Gerais 
@@ -32,3 +33,4 @@ ${CompFake}                 Casa
 ${BairroFake}               Centro
 ${ValorMoveisFake}          3000
 ${MenordeIdade}             01/01/2007
+
