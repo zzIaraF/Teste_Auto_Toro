@@ -21,7 +21,7 @@ O objetivo principal foi criar uma automação estável, funcional e de fácil e
 ## Organização do Projeto
 
 - Lista de Cenários:
-Os cenários de teste foram documentados e podem ser acessados [aqui](hhttps://docs.google.com/spreadsheets/d/1p-MAfRrFtlQySo02egF7i2KLXESCi4Qc/edit?usp=sharing&ouid=115703865082978750589&rtpof=true&sd=true). 
+Os cenários de teste foram documentados e podem ser acessados[(aqui)](https://docs.google.com/spreadsheets/d/1p-MAfRrFtlQySo02egF7i2KLXESCi4Qc/edit?usp=sharing&ouid=115703865082978750589&rtpof=true&sd=true). 
 
 - Automação de Cenário Crítico:
 Pelo menos um cenário crítico foi selecionado e automatizado. O script está organizado de forma a priorizar a reutilização de código e a legibilidade.
@@ -45,7 +45,6 @@ As pastas do projeto estão organizadas da seguinte forma:
 <p align="center">
   <img alt="Organização do projeto" src="Organização das pastas.jpg">
 </p>
-
 
 1. Clone o repositório
 2.  Execute o teste: "robot -d Results Testes\Login\TC01.robot"
