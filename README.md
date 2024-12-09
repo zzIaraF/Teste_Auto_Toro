@@ -29,16 +29,6 @@ Pelo menos um cenário crítico foi selecionado e automatizado. O script está o
 - Relatório de Execução:
 O framework gera relatórios detalhados após a execução dos testes, incluindo logs e screenshots em caso de falha.
 
-## Tecnologias e Ferramentas Utilizadas
-Framework: Robot Framework
-
-Bibliotecas:
-- SeleniumLibrary (para interação com elementos web)
-- FakerLibrary (para geração de dados dinâmicos, configurada para locale=pt_BR)
-
-Repositório: Estruturado com branches padrão (main) e releases de entrega.
-Organização do Projeto
-
 ## Como Executar o Projeto
 As pastas do projeto estão organizadas da seguinte forma:
 
