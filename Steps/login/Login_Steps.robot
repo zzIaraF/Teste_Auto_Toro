@@ -1,6 +1,6 @@
 *** Settings ***
-Resource   ../../Resouces/Stettings.resource
-Resource   ../../Elements/Mein_Elements.resource
+Resource   ../../Resouces/Settings.resource
+Resource   ../../Elements/Main_Elements.resource
 
 
 *** Keywords ***

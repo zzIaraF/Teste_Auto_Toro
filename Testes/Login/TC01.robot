@@ -1,5 +1,5 @@
 *** Settings ***
-Resource  ../../Steps/Mein_Elements.resource
+Resource  ../../Steps/Main_Elements.resource
 
 *** Test Cases ***
 
